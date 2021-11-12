@@ -1,0 +1,5 @@
+<header>
+    <h2>Liste de clients</h2>
+    <button [routerLink]="['new']">Ajouter un utilisateur</button>
+    <app-client-card [client]="client" *ngFor="let client of clients"></app-client-card>
+</header>

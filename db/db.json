@@ -1,0 +1,66 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "titre_original": "The Shawshank Redemption",
+      "synospis": "En 1947, Andy Dufresne, un jeune banquier, est condamné à la prison à vie pour le meurtre de sa femme et de son amant. Ayant beau clamer son innocence, il est emprisonné à Shawshank, le pénitencier le plus sévère de l'État du Maine. Il y fait la rencontre de Red, un noir désabusé, détenu depuis vingt ans. Commence alors une grande histoire d'amitié entre les deux hommes",
+      "titre": "Les Évadés"
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "date": "13/11/2021",
+      "clientId": 1,
+      "salleId": 1
+    },
+    {
+      "id": 2,
+      "date": "14/11/2021",
+      "clientId": 3,
+      "salleId": 2
+    },
+    {
+      "id": 3,
+      "date": "14/11/2021",
+      "clientId": 4,
+      "salleId": 2
+    }
+  ],
+  "salles": [
+    {
+      "id": 1,
+      "nom": "Une"
+    },
+    {
+      "id": 2,
+      "nom": "Deux"
+    }
+  ],
+  "clients": [
+    {
+      "name": "hgfdf",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "nom": "Bary"
+    },
+    {
+      "id": 4,
+      "nom": "Patricia"
+    },
+    {
+      "name": "gbn,;",
+      "id": 5
+    },
+    {
+      "name": "Bary",
+      "id": 6
+    },
+    {
+      "name": "Bary",
+      "id": 7
+    }
+  ]
+}
